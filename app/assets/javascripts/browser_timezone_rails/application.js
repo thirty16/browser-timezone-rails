@@ -9,9 +9,8 @@
 //
 // WARNING: THE FIRST BLANK LINE MARKS THE END OF WHAT'S TO BE PROCESSED, ANY BLANK LINE SHOULD
 // GO AFTER THE REQUIRES BELOW.
-//
+//   removed jquery-ujs
 //= require jquery-2.1.1.min
-//= require jquery_ujs
 //= require jquery.cookie
 //= require jstz
 //= require browser_timezone_rails/set_time_zone
